@@ -1,2 +1,2 @@
-# checkboxPratice
-[Android] checkbox 範例。
+# [Android] checkbox 範例
+
